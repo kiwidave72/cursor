@@ -2,3 +2,6 @@
 	path = vendor/imgui
 	url = https://github.com/TheCherno/imgui
 	branch = docking
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/thecherno/glfw
