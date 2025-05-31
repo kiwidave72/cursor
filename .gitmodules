@@ -14,3 +14,7 @@
 [submodule "vendor/yaml-cpp"]
 	path = vendor/yaml-cpp
 	url = https://github.com/TheCherno/yaml-cpp
+[submodule "Walnut/vendor/imgui/src"]
+	path = Walnut/vendor/imgui/src
+	url = https://github.com/ocornut/imgui
+	branch = docking
